@@ -38,7 +38,8 @@ The entire configuration can operate with either AC or DC input.
 
 ---
 
-### **Inverting Amplifier**
+## INVERTING APLIFIER
+## DATE : 09.08.2025
 
 This is the most widely used op-amp configuration.  
 The output voltage Vo  is fed back to the inverting input terminal through the  Rf - R1 network.  
@@ -47,19 +48,19 @@ The negative sign in gain indicates a **phase shift of 180°**.
 
 Acl = -RF/R1
 
-PIN DIAGRAM
+## PIN DIAGRAM
+
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
-CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
+## CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 <img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
 
-MODEL GRAPH 
-
+## MODEL GRAPH 
 <img width="543" height="357" alt="image" src="https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1" />
 
 
 
-DESIGN:
+## DESIGN:
 
 Inverting amplifier:
 
@@ -68,7 +69,7 @@ Take  A = 10
 Rf =10 R1
 Choose R1 = 1kΩ, Rf=10kΩ
 
-PROCEDURE:
+## PROCEDURE:
 Inverting amplifier:
 
 1.	Select R1 as a constant value and choose a value of Rf.
@@ -82,20 +83,20 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
+<img width="853" height="223" alt="image" src="https://github.com/user-attachments/assets/4d4bf017-5d9d-4797-9423-dd68f498c664" />
+
  
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="882" height="481" alt="image" src="https://github.com/user-attachments/assets/f03efa8b-d13a-46ff-ad6a-6186d7a9f7ba" />
+
 
 
 ---
-### **Non-Inverting Amplifier**
+## NON-ONVERTING AMPLIFIER
+## DATE : 19.08.2025
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
 Here, the output is fed back to the inverting terminal, and **no phase shift** occurs.
@@ -118,8 +119,7 @@ ACL = 1 + RF/R1
 <img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
 
 ---
-PROCEDURE:
-### **For  Non-Inverting Amplifier**
+## PROCEDURE:
 1. Select R1  as a constant value and choose a value for Rf .  
 2. Connect the circuit as per the diagram.  
 3. Apply constant amplitude input voltage.  
@@ -130,18 +130,18 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="813" height="249" alt="image" src="https://github.com/user-attachments/assets/c837a621-b04a-4b0d-8500-968ddab36aaf" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="859" height="504" alt="image" src="https://github.com/user-attachments/assets/ca439414-aa39-41f9-a4aa-753b9c160b5d" />
+
 
 
 ---
 ## DIFFERENTIAL AMPLIFIER
+## DATE : 23.08.2025
 
 A circuit that amplifies the **difference** between two input signals is called a **Differential Amplifier**.  
 It is useful in instrumentation applications.  
@@ -158,9 +158,6 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
-
-
-### **Differential Amplifier**
 
 AV = Vo/{V1 - V2} = -Rf/R1
 
@@ -186,18 +183,19 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="816" height="271" alt="image" src="https://github.com/user-attachments/assets/32d35b23-c671-42dd-918c-4e9af0cbe932" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![differential](https://github.com/user-attachments/assets/17fd3652-a340-4b53-ba44-51396fc510d2)
+
 
 
 ---
+
 ## INSTRUMENTATION AMPLIFIER
+## DATE : 28.08.2025
 
 THEORY:
 
@@ -225,14 +223,13 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="822" height="335" alt="image" src="https://github.com/user-attachments/assets/f79c884b-c8c7-46bc-b1ec-06ae8d1ed47f" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![INSTRUMENTATION](https://github.com/user-attachments/assets/ed6d34c4-d959-4f0f-9ec9-cddd5d07c15e)
+
 
 
 ---
