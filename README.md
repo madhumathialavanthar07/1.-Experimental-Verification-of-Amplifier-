@@ -56,7 +56,7 @@ Acl = -RF/R1
 ![WhatsApp Image 2025-12-04 at 2 17 50 PM](https://github.com/user-attachments/assets/8406c21b-0000-4065-b4cf-1ea2a73916f2)
 
 ## MODEL GRAPH 
-<img width="543" height="357" alt="image" src="https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1" />
+![WhatsApp Image 2025-12-04 at 2 51 33 PM](https://github.com/user-attachments/assets/7ae662db-e325-4fdb-b466-28e18fb52263)
 
 
 
@@ -117,7 +117,8 @@ ACL = 1 + RF/R1
 
 ## MODEL GRAPH
 
-<img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
+![WhatsApp Image 2025-12-04 at 2 51 34 PM](https://github.com/user-attachments/assets/c86887f4-16c3-4f8a-9f27-a12cde29fb33)
+
 
 ---
 ## PROCEDURE:
@@ -155,7 +156,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 
 ## MODEL GRAPH
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
+![WhatsApp Image 2025-12-04 at 2 51 34 PM (1)](https://github.com/user-attachments/assets/ceaff9c6-89ed-4eea-8625-a80c963e379b)
 
 ---
 
@@ -209,6 +210,10 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 ![WhatsApp Image 2025-12-04 at 2 17 51 PM](https://github.com/user-attachments/assets/6099d2e7-02e2-4bcd-a9aa-89b992de5a83)
+
+## MODEL GRAPH
+![WhatsApp Image 2025-12-04 at 2 51 32 PM](https://github.com/user-attachments/assets/d1437af8-392b-431c-afcc-7d22e4295270)
+
 
 PROCEDURE:
 
