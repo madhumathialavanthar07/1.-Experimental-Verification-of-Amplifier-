@@ -53,7 +53,7 @@ Acl = -RF/R1
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 ## CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+![WhatsApp Image 2025-12-04 at 2 17 50 PM](https://github.com/user-attachments/assets/8406c21b-0000-4065-b4cf-1ea2a73916f2)
 
 ## MODEL GRAPH 
 <img width="543" height="357" alt="image" src="https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1" />
@@ -95,7 +95,7 @@ Inverting amplifier:
 
 
 ---
-## NON-ONVERTING AMPLIFIER
+## NON-INVERTING AMPLIFIER
 ## DATE : 19.08.2025
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
@@ -110,7 +110,8 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
+![WhatsApp Image 2025-12-04 at 2 17 49 PM](https://github.com/user-attachments/assets/e41fd411-8239-48c0-bb69-abb304aa01ce)
+
 
 ---
 
@@ -150,7 +151,8 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+![WhatsApp Image 2025-12-04 at 2 17 52 PM](https://github.com/user-attachments/assets/43064b21-07f6-477f-91b4-a58085df74e0)
+
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
@@ -206,8 +208,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
-
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-12-04 at 2 17 51 PM](https://github.com/user-attachments/assets/6099d2e7-02e2-4bcd-a9aa-89b992de5a83)
 
 PROCEDURE:
 
